@@ -9,7 +9,7 @@ ReWaste is an innovative platform designed to **reduce food waste** by intellige
 
 ## 👨‍💻 Team Members
 
-- **Yadhu Krishna** – Team Leader  
+- **YadhuKrishna** – Team Leader  
 - **M B Sidharth**  
 - **Adithya Hari**  
 - **Joshua George**
